@@ -1,2 +1,2 @@
-# laravel pizzahouse
-## This is a laravel pizzahouse project.
+# laravel pizza house
+## This is a laravel pizza house project.
